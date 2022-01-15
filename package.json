@@ -1,0 +1,27 @@
+{
+  "name": "calculadora-wit",
+  "version": "1.0.0",
+  "description": "Projeto candidatura node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "isaias lima de brito",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.0.5",
+    "csv-writer": "^1.6.0",
+    "debug": "^4.3.3",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "ipware": "^2.0.0",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
