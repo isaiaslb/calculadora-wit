@@ -33,7 +33,7 @@ Aplicação web com a finalidade de realizar o teste de conhecimento em Node.js.
 
 ## 👩‍🏫 Como rodar localmente
 
-- `git clone;
+- `git clone`;
 - `cd calculadora-wit`;
 - `npm install`;
 - `npm start` ou `npm run dev`;
